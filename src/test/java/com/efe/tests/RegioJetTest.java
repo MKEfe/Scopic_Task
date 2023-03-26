@@ -116,7 +116,7 @@ public class RegioJetTest {
 
     }
 /*
-NOTE: number of stops: cannot find related information
+NOTE: number of stops: cannot find related information.
  */
     }
 
